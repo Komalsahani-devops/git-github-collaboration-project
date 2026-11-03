@@ -1,0 +1,4 @@
+Project Name: Git & GitHub Collaboration Project
+Purpose: Practice Git version control and GitHub collaboration.
+Owner: Komal
+Branch: feature/add-project-info
