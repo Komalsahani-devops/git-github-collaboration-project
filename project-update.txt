@@ -1,0 +1,6 @@
+Project Update
+--------------
+Added project information.
+Practising Git branch management.
+Learning GitHub collaboration.
+
